@@ -43,7 +43,7 @@ predict_new_data(age=75, educ=4, ses=2, mmse=28, etiv=1500, nwbv=0.7, asf=1.1)
 - Confusion matrix
 
 📈 Accuracy
-- Accuracy on test data: ~[add accuracy here]
+- Accuracy on test data: ~0.88
 - Detailed classification report printed in console
 
 🛠️ How to Run
