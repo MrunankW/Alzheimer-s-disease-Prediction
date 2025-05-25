@@ -36,20 +36,20 @@ predict_new_data(age=75, educ=4, ses=2, mmse=28, etiv=1500, nwbv=0.7, asf=1.1)
 # Probability of Dementia: 0.14
 ```
 
-📷 Visualizations
+## 📷 Visualizations
 - Target label distribution
 - Histograms of each feature by dementia label
 - Correlation heatmap
 - Confusion matrix
 
-📈 Accuracy
+## 📈 Accuracy
 - Accuracy on test data: ~0.88
 - Detailed classification report printed in console
 
-🛠️ How to Run
+## 🛠️ How to Run
 1. Install dependencies: ``` pip install pandas scikit-learn matplotlib seaborn openpyxl ```
 2. Place the dataset file as oasis_cross-sectional-5708aa0a98d82080.xlsx
 3. Run the script in a Jupyter notebook or Python environment.
 
-📂 Output
+## 📂 Output
 Saves a labeled version of the dataset as oasis_cross-sectional_labeled.xlsx
